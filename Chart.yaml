@@ -1,0 +1,6 @@
+apiVersion: v2
+name: ternero
+description: A simple dashboard fo k3s/rke clusters
+type: application
+version: 0.1.0
+appVersion: "0.2.6"
