@@ -11,6 +11,6 @@ After that just clone/download the files of this repo and apply it to your k3s i
 
 `helm repo add ternero http://gusraggio.github.io/ternero/`
 
-`helm install ternero -n kube-system`
+`helm install ternero ternero/ternero -n kube-system`
 
 Then access to https://IP:8989
