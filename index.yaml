@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   ternero:
   - apiVersion: v2
+    appVersion: v0.2.6.9-ent
+    created: "2022-11-23T07:46:02.890981739Z"
+    description: A simple dashboard fo k3s/rke clusters
+    digest: f161206ada6c5afb740e18f5a89f443a8d7441a00107d012c3aa7ea2980dcaab
+    name: ternero
+    type: application
+    urls:
+    - https://github.com/gusraggio/ternero/releases/download/ternero-0.1.4/ternero-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
     appVersion: v0.2.13
     created: "2022-11-21T20:53:21.331412437Z"
     description: A simple dashboard fo k3s/rke clusters
@@ -41,4 +51,4 @@ entries:
     urls:
     - https://github.com/gusraggio/ternero/releases/download/ternero-0.1.0/ternero-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-21T20:53:21.331424537Z"
+generated: "2022-11-23T07:46:02.891001039Z"
