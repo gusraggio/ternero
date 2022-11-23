@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: niusmallnan/kube-explorer
+  repository: cnrancher/kube-explorer
   tag: ""
   pullPolicy: IfNotPresent
 
