@@ -1,5 +1,5 @@
 # ternero
-Ternero is a simple dashboard fo k3s/rke clusters
+Ternero is a simple dashboard fo k3s/rke clusters based on kube-explorer (https://github.com/cnrancher/kube-explorer)
 
 ## Quickstart
 
